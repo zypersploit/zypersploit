@@ -1,3 +1,5 @@
+![Zyper Sploit](images/text.png)
+
 - 👋 Hi, I’m Zyper Sploit!
 - 👀 I’m interested in becoming an ethical hacker.
 - 🌱 I’m currently learning how to use Kali Linux.
