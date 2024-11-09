@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/zypersploit/zypersploit/blob/main/images/text.png" alt="Zypher Sploit's Text"/>
-</p>
-
+![[Zyper Sploit's Text]](images/text.png)
 - 👋 Hi, I'm Zyper Sploit!
 - 👀 I'm interested in becoming an ethical hacker. 
 - 🌱 I'm currently learning how to use Kali Linux and develop penetration testing skills. 
