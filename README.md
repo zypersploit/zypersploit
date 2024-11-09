@@ -1,4 +1,4 @@
-![Zyper Sploit Text](images/text.jpg)
+![[Your Name]](images/text.png)
 
 ###  Hi, I'm [Your Name]!
 ### -  I'm interested in becoming an ethical hacker. 
