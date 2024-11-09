@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zypersploit
+- 👋 Hi, I’m Zyper Sploit!
 - 👀 I’m interested in becoming an ethical hacker.
 - 🌱 I’m currently learning how to use Kali Linux.
 - 📫 How to reach me zypersploit@gmail.com
