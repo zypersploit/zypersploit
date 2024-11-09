@@ -1,4 +1,4 @@
-![[Zyper Sploit Text]](images/text.png)
+![[Zyper Sploit]](images/text.png)
 
 - 👋 Hi, I'm Zyper Sploit!
 - 👀 I'm interested in becoming an ethical hacker. 
