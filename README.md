@@ -4,4 +4,5 @@
 - 📫 How to reach me: zypersploit@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favorite color is blue.
+
 ![[Zyper Sploit]](images/text.png)
